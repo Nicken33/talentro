@@ -2,5 +2,8 @@ User-agent: *
 Allow: /
 Disallow: /moderation
 Disallow: /favorites
+Disallow: /my/
+Disallow: /profile
 
+Sitemap: https://www.talentro.fun/sitemap.xml
 Host: www.talentro.fun
